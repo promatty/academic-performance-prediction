@@ -13,8 +13,8 @@ First, we will preprocess the data to make sure that we remove any potentially i
 ## Dataset, Models, Frameworks, Components (What)
 We will be using the “Student Stress Factors: A Comprehensive Analysis” by user rxnach on Kaggle. This dataset has 1100 records and 21 columns. The target will be the stress_level column which is represented on a scale from 0-2. The machine learning models we will use are lasso regression, random forest, and gradient boosting. We will be using Python and Jupyter Notebooks to develop the code and some relevant tools and libraries that we will use include Scikit-Learn, Pandas, and Matplotlib. We plan to fill in the missing data values using the mean of the feature data associated with each target class. To evaluate and validate our models, we will use mean squared error and R^2 values.
 
-# Code sources
+## Code sources
 We sourced the majority of our code from our previous assignments and labs. Moreover, we used AI like ChatGPT and GitHub Copilot in order to help us do bug fixing and error handling, as well as create the plot that lists the top 10 most important feature for every model. 
 
-# Kaggle link to the dataset we used
+## Kaggle link to the dataset we used
 https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis/data
